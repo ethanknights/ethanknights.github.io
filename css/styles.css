@@ -11698,3 +11698,20 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* 
+=================================================================================
+EK Modifications 
+=================================================================================
+ */
+section {
+  background: white;
+  color: black;
+  border-radius: 1em;
+  padding: 1em;
+  left: 25% }
+#innerWhiteBox {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center }
